@@ -7,13 +7,13 @@ auth-api
 dev
 
 ## Heroku
-https://bearer-auth-simone.herokuapp.com/
+https://auth-api-simone.herokuapp.com/
 
 ## Github Actions
-https://github.com/SimoneOdegard/bearer-auth/actions
+https://github.com/SimoneOdegard/auth-api/actions
 
 ## Pull Requests
-https://github.com/SimoneOdegard/bearer-auth/pull/2
+https://github.com/SimoneOdegard/auth-api/pull/2
 
 ## UML Diagram
 ![UML](./assets/uml.jpg)
