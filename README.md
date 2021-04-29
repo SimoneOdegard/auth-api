@@ -1,4 +1,4 @@
-# Auth-API
+# Auth-API.
 
 ## Repo Name
 auth-api
